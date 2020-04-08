@@ -103,6 +103,7 @@ Before I make my bimonthly 3 hour journey from Los Angeles to my hometown, I pla
 * Tells you what tab you're on
 * Drop down menu turns orange when you click on an option
 * Loading 
+* Rating system is good - it shows you have 
 **Severity Rating: 2/3**
 
 **2. Match between system and the real world**: the system should speak to the user’s real world, via language, phrases, and concepts that are familiar.
@@ -113,6 +114,7 @@ Before I make my bimonthly 3 hour journey from Los Angeles to my hometown, I pla
 **3. User control and freedom**: if a user makes a mistake, they should be able to go back to the previous page or homepage easily without having to take many steps.
 
 * Big problem for me when I accidentally drag down to the map. The problem is that this gesture conflicts with the refresh one, so when I fidget with the app as I do with most, I end up on the map when I am just trying to keep busy while reviewing the prices. 
+* Rating a gas station: the user has to complete all minor questions that you may not have an opinion on, such as "How was the lighting?" In reality they should be able to opt out or skip those questions after leaving the overall rating. 
 
 <img src="./gasbuddy_screenshot2.jpeg">
 
@@ -146,6 +148,7 @@ Before I make my bimonthly 3 hour journey from Los Angeles to my hometown, I pla
 * Another example: Under the price tab, they list the user that reported the price, as if this were a social media platform where I care about who shares the info. I only care about the price. If it is not refutable, there is no way for me to tell based on the "BALI34" username listed below it. 
 * The ads: I get that Gasbuddy has to turn a profit, but the ads make the entire experience feel clustered and unorganized. They are also very inconsistentlty placed and distract from the essential information. 
 * The "FOR YOU" page - AKA the landing page - 
+* Even when rating a gas station, I feel like the additional questions such as "How was the coffee?" seems extra. There should only be one or two essential questions. 
 **Severity Rating: 3/3**
 
 **9. Help users recognize, diagnose, and recover from errors**: error messages should concisely and clearly indicate the error and how the user can fix it.
