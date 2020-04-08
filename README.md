@@ -109,11 +109,15 @@ Before I make my bimonthly 3 hour journey from Los Angeles to my hometown, I pla
 **2. Match between system and the real world**: the system should speak to the user’s real world, via language, phrases, and concepts that are familiar.
 
 * Gasbuddy is good about this. The language is very simple and straightforward, with tabs such as "FIND GAS" and simple icons that match that. 
+* A good example is the "Give this station a rating" feature which displays three emoji faces with different emotions to match the user's experience at that gas station. I do think, however, that these emojis look like advertisements, which could be solved with another type of icon like thumbs up and down. 
+
+<img src="./gasbuddy_screenshot3.PNG">
+
 **Severity Rating: 3/3**
 
 **3. User control and freedom**: if a user makes a mistake, they should be able to go back to the previous page or homepage easily without having to take many steps.
 
-* Big problem for me when I accidentally drag down to the map. The problem is that this gesture conflicts with the refresh one, so when I fidget with the app as I do with most, I end up on the map when I am just trying to keep busy while reviewing the prices. 
+* Big problem for me when I accidentally drag down to the map. The problem is that this gesture conflicts with the refresh one, so when I fidget with the app as I do with most, I end up on the map when I am just trying to keep busy while reviewing the prices. Dragging in the opposite direction to reverse this action only moves the map south, so it is hard to implicitly escape this map. 
 * Rating a gas station: the user has to complete all minor questions that you may not have an opinion on, such as "How was the lighting?" In reality they should be able to opt out or skip those questions after leaving the overall rating. 
 
 <img src="./gasbuddy_screenshot2.jpeg">
