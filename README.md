@@ -79,3 +79,7 @@ I have been a Letterboxd user for around a year now, but I do not use it as freq
 ---
 
 ## Severity Rating - 2
+
+---
+
+# Case 1:
