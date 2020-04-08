@@ -14,14 +14,24 @@ I have been a Letterboxd user for around a year now, but I do not use it as freq
 <img src="./Letterboxd-screenshot.png">
 
 # Heurisitc Evaluation
-* Visibility of system status 
-* Match between system and the real world
-* User control and freedom
-* Consistency and standards
-* Error prevention
-* Recognition rather than recall
-* Flexibility and efficiency of use
-* Aesthetic and minimalist design
-* Help users recognize, diagnose, and recover from errors
-* Help and Documentation
+* **Visibility of system status**: providing nuggets of information (feedback) that allow users to accurately assess the current state of the system.
+
+* **Match between system and the real world**: the system should speak to the user’s real world, via language, phrases, and concepts that are familiar.
+
+* **User control and freedom**: if a user makes a mistake, they should be able to go back to the previous page or homepage easily without having to take many steps.
+
+* **Consistency and standards**: the same actions should remain the same throughout an app/website via using the same words and icons; internal and external consistency need to be maintained.
+
+* **Error prevention**: notifying and offering users a way out of an error that may be made.
+
+* **Recognition rather than recall**: users need more context-provided cues to make something a recognition process and not a taxing recall process.
+
+* **Flexibility and efficiency of use**: an action can be carried out in a number of different ways, with efficiency potentially increasing for a more experienced user; user can choose their method of interaction.
+
+* **Aesthetic and minimalist design**: remove unnecessary elements as they only compete with the essential information; reduce the noise to increase the signal.
+
+* **Help users recognize, diagnose, and recover from errors**: error messages should concisely and clearly indicate the error and how the user can fix it.
+
+* **Help and Documentation**: allow users to find their problem, and then list concrete steps that they can carry out to solve the issue. 
+
 
