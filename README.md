@@ -76,8 +76,6 @@ I have been a Letterboxd user for around a year now, but I do not use it as freq
 * The Help page may be the best page aesthetically on the website as well as serving a great function. I wish it was more visible for me as a relatively new user. It tells one how to navigate the website and its features, as well as listing shortcut actions. 
 * However, unlike many good help pages, it does not have a search feature for specific issues - it just gives specific insights to the website. This could cause a user to run into an issue if they have a specific need that cannot be met. 
 
----
-
 ## Severity Rating - 2
 
 ---
