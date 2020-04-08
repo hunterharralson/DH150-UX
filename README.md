@@ -100,70 +100,91 @@ Before I make my bimonthly 3 hour journey from Los Angeles to my hometown, I pla
 
 ## Heurisitc Evaluation
 
+
 **1. Visibility of system status**: providing nuggets of information (feedback) that allow users to accurately assess the current state of the system.
 
 * Tells you what tab you're on
 * Drop down menu turns orange when you click on an option
-* Loading 
-* Rating system is good - it shows you have 
+* Loading icon
+* Rating system is good for this - it shows you have pages left to fill out and shows that you have completed the previous one. 
 **Severity Rating: 2/3**
+
 
 **2. Match between system and the real world**: the system should speak to the user’s real world, via language, phrases, and concepts that are familiar.
 
 * Gasbuddy is good about this. The language is very simple and straightforward, with tabs such as "FIND GAS" and simple icons that match that. 
 * A good example is the "Give this station a rating" feature which displays three emoji faces with different emotions to match the user's experience at that gas station. I do think, however, that these emojis look like advertisements, which could be solved with another type of icon like thumbs up and down. 
-
-<img src="./gasbuddy_screenshot3.PNG">
-
 **Severity Rating: 3/3**
+
+<p align="center">
+  <img src="./gasbuddy_screenshot3.PNG" width="30%" height="30%">
+</p>
+
 
 **3. User control and freedom**: if a user makes a mistake, they should be able to go back to the previous page or homepage easily without having to take many steps.
 
 * Big problem for me when I accidentally drag down to the map. The problem is that this gesture conflicts with the refresh one, so when I fidget with the app as I do with most, I end up on the map when I am just trying to keep busy while reviewing the prices. Dragging in the opposite direction to reverse this action only moves the map south, so it is hard to implicitly escape this map. 
 * Rating a gas station: the user has to complete all minor questions that you may not have an opinion on, such as "How was the lighting?" In reality they should be able to opt out or skip those questions after leaving the overall rating. 
-
-<img src="./gasbuddy_screenshot2.jpeg">
-
+* Most of the time, the user does have a back arrow or an X at the top left to undo their previous action, which is very helpful.
 **Severity Rating: 2/3**
+
+<p align="center">
+  <img src="./gasbuddy_screenshot2.jpeg" width="30%" height="30%">
+</p>
+
 
 **4. Consistency and standards**: the same actions should remain the same throughout an app/website via using the same words and icons; internal and external consistency need to be maintained.
 
-* Internal:  Decent - action buttons are orange throughout the app, but going back to the swipe-down gesture
-* External: refresh with the drag down shortcut, stars system with colors, very simple icons, 
-**Severity Rating: 2/3**
+* Internal:  Decent - action buttons are orange throughout the app, but going back to the swipe-down gesture, it serves two conflicting purposes (refresh & visit map), which can be frustrating for the user.
+* External: refresh with the drag down shortcut, stars system with colors, very simple icons, dialogue is simple and consistent. 
+**Severity Rating: 1/3**
+
 
 **5. Error prevention**: notifying and offering users a way out of an error that may be made.
 
-* 
-**Severity Rating: 0/3**
+* There are not many instances in which the user could make a major error, except for writing a review. BUT, if you were to write a lengthy review and accidentally press the 'X' at the top left corner to escape, that review is gone forever without an error message. This is a huge problem that would frustrate a user immensely. 
+* Also, with the in-app map feature, if you accidentally scroll to it, there is no 'X' to escape it like there is in the rest of the app. 
+**Severity Rating: 3/3**
+
 
 **6. Recognition rather than recall**: users need more context-provided cues to make something a recognition process and not a taxing recall process.
 
-* 
-**Severity Rating: 2/3**
+* The whole app is great with the recognition rather than recall. I feel like I am not thinking too much while using it and rarely catch myself trying to understand what something means or what the action carried out will be. The only time is when I accidentally scroll to the map and have to find a way out of it, which is not an intuitive process.
+**Severity Rating: 1/3**
+
 
 **7. Flexibility and efficiency of use**: an action can be carried out in a number of different ways, with efficiency potentially increasing for a more experienced user; user can choose their method of interaction.
 
 * While the refresh drag-down shortcut is very useful and may seem intuitive to younger users familiar with Twitter and Instagram, there is no explicit refresh button for those unfamiliar with the shortcut. 
-**Severity Rating: 0/3**
+* Besides that, there are no other shortcuts for efficiency that more experienced users could take advantage of. However, I am not sure how necessary or useful these would be for such a simple and quick-use app.
+**Severity Rating: 1/3**
+
 
 **8. Aesthetic and minimalist design**: remove unnecessary elements as they only compete with the essential information; reduce the noise to increase the signal.
 
-* This is the biggest problem of the Gasbuddy experience for me. This is a very simple app idea that works best by not doing too much. As a user, I do not think that the additional tabs on the app are necessary, and frankly, I could do without all of them except "FIND GAS". Perhaps a tab that I would find very useful would be a forum in which users can search questions such as "Cheapest gas from LA to Bakersfield along the 99?" However, inputting my car details does not change the price of gas when I arrive at the station. This feature seems unnecessary.
+* This is the biggest problem of the Gasbuddy experience for me. This is a very simple app idea that works best by not doing too much. As a user, I do not think that the additional tabs on the app are necessary, and frankly, I could do without all of them except "FIND GAS". Perhaps a tab that I would find very useful would be a forum in which users can search questions such as "Cheapest gas from LA to Bakersfield along the 99?" However, the app chooses to prioritize features like inputting my car details, which does not change the price of gas when I arrive at the station.
 * Example: the Spread box at the top of the "FIND GAS" tab seems unncessary. I'm not sure who actually cares about the highest priced gas in their area. 
-* Another example: Under the price tab, they list the user that reported the price, as if this were a social media platform where I care about who shares the info. I only care about the price. If it is not refutable, there is no way for me to tell based on the "BALI34" username listed below it. 
+* Another example: Under the price tab, they list the user that reported the price, as if this were a social media platform where I care about who shares the info. I only care about the price. If it is not a reputable price, there is no way for me to tell based on the "BALI34" username listed below it. 
 * The ads: I get that Gasbuddy has to turn a profit, but the ads make the entire experience feel clustered and unorganized. They are also very inconsistentlty placed and distract from the essential information. 
-* The "FOR YOU" page - AKA the landing page - 
+* The "FOR YOU" page - AKA the landing page. I feel like this should just be the Find Gas page instead of me having to navigative over to it.
 * Even when rating a gas station, I feel like the additional questions such as "How was the coffee?" seems extra. There should only be one or two essential questions. 
 **Severity Rating: 3/3**
 
+
 **9. Help users recognize, diagnose, and recover from errors**: error messages should concisely and clearly indicate the error and how the user can fix it.
 
-* 
-**Severity Rating: 1/3**
+* The app does a fine job with this. For example, if I try to report a price and put in $1.20 per gallon, the app asks if I am sure about this and then tells me why. 
+**Severity Rating: 0/3**
+
+<p align="center">
+  <img src="./gasbuddy_screenshot4.PNG" width="30%" height="30%">
+</p>
+
 
 **10. Help and Documentation**: allow users to find their problem, and then list concrete steps that they can carry out to solve the issue. 
 
-* 
-**Severity Rating: 2/3**
+* There is a help and FAQ page within the settings. It simply leaves a phone number and links users to the mobile website for FAQ and search setting (good) for issues. However, this help page is only relevant for a feature called "Park with GasBuddy", offering no help for issues with the app or finding cheap gas.
+* In order to improve this, I think GasBuddy should have a help page for the entire experience and not just a feature that most users are not likely to use. However, this does not seem like too major an issue since the app is fairly intuitive and there aren't very many questions a user should have. 
+
+**Severity Rating: 1/3**
 
