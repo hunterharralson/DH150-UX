@@ -1,6 +1,8 @@
-# Enhancing the User Experience ### Digital Humanities 150 - Spring 2020
+# Enhancing the User Experience 
 
-### Created by Hunter Harralson
+### Digital Humanities 150 - Spring 2020
+
+*Created by Hunter Harralson*
 
 There are many websites I frequent based on personal interests. For many of these, there are details I notice that would make my experience as a user much smoother. With this project, I am looking to improve a website that I feel I would use more with minor improvements. 
 
