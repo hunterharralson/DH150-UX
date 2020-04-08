@@ -88,13 +88,13 @@ I have been a Letterboxd user for around a year now, but I do not use it as freq
 
 ---
 
-# Case 2: <a href="http://gasbuddy.com" target="_blank"> GasBuddy App </a> :fuel_pump:
+# Case 2: <a href="http://gasbuddy.com" target="_blank"> GasBuddy App </a> :fuelpump:
 
 A website that serves as a social platform for cinephiles, Letterboxd allows a user to log viewed films, leave lengthy film reviews, rate movies, and discuss movies with friends and strangers. It serves as a medium for people to interact about the movies they love, hate, or simply want to share with their following.
 
 I have been a Letterboxd user for around a year now, but I do not use it as frequently as I would like to. I think that part of this is because of the user experience. If I want to view information about a film, I am more likely to go to IMDB because I am more familiar with using it. Letterboxd is a very overwhelming experience for a new user. While it is obvious that many user experience principles have been thoughtfully considered, more minute details that aggregate throughout the experience can make it frustrating for a user like myself who desires the engagement the platform offers. 
 
-<img src="./Letterboxd-screenshot.png">
+<img src="./gasbuddy_screenshot.png">
 
 ---
 
