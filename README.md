@@ -92,7 +92,7 @@ I have been a Letterboxd user for around a year now, but I do not use it as freq
 
 Before I make my bimonthly 3 hour journey from Los Angeles to my hometown, I plan out my gas stop along the way. Gasbuddy is an app that allows a user like myself to find the cheapest gas nearby or in a searched location. However, as useful as the app is, I often feel overwhelmed and frustrated while using it. I feel that the app is not as minimalistic and simple as it needs to be, which makes the extra work to find cheap gas not feel worth it at times. If I forget to plan my gas stop ahead of time, there is no chance I can pull the app up quickly while driving to find a cheap nearby stop because of the app's lack of simplicity. 
 
-<img src="./gasbuddy-screenshot.PNG">
+<img src="./gasbuddy-screenshot.PNG" width="200" height="400">
 
 ---
 
