@@ -41,6 +41,5 @@ The pilot test video [here](https://drive.google.com/file/d/1LeC3ka1fxsSPTg_XFFH
 --- 
 
 ## Reflection
-- what i learned, what went well and what did not, how to improve UT in the future
 Reflecting on the Usability Test, I feel that besides the major technical difficulty, everything went smoothly. The main thing I learned is that I need to take the technical matters in my hands more to reduce the chance of something bad happening. I also learned that as the moderator, I need to try to remain neutral and not interject my opinions whatsover, as that may bias the test. This part was difficult because it was harder to be formal with a close friend; however, I feel that this will improve with practice. 
 In terms of future improvements, I think that providing positive feedback regardless of the response will be very helpful, as well as remaining clear in my directions as moderator. It is difficult to conduct these tests over FaceTime because there are already so many moving parts, but in a real setting not hindered by social distancing, I think this process will become easier. 
