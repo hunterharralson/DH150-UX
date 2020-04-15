@@ -33,10 +33,12 @@ The participant was then asked how much they agreed with the following statement
 <p>&nbsp;</p>
 Lastly, the participant was asked to select five words that he felt were most closely associated with Letterboxd. The participant was also asked to fill out a brief background survey sharing demographic information. 
 <p>&nbsp;</p>
-The usability test materials [here](https://forms.gle/mQTCnjqMyysgyLeh8)
+### Survey Link (usability test materials)
+(https://forms.gle/mQTCnjqMyysgyLeh8)
 <p>&nbsp;</p>
-The pilot test video [here](https://drive.google.com/file/d/1LeC3ka1fxsSPTg_XFFHxZoz-9c3dJZbs/view?usp=sharing)
-**Important note:** In the process of exporting the pilot video from ActivePresenter into a .mp4 format, the participant's computer crashed. Since I could not conduct the interview in person due to Coronavirus issues, I had to have the participant download the software and attempt this himself. Luckily, before exporting, he had accidentally saved the face video of himself into an MKV format. However, this video has zero audio nor does it show the screen. I only attached it as proof that I conducted the interview, but don't have all the desired materials. However, I was watching his interaction via FaceTime and remember most of the user decisions and his explanations. 
+### Pilot Test Video:
+(https://drive.google.com/file/d/1LeC3ka1fxsSPTg_XFFHxZoz-9c3dJZbs/view?usp=sharing)
+**Important note: In the process of exporting the pilot video from ActivePresenter into a .mp4 format, the participant's computer crashed. Since I could not conduct the interview in person due to Coronavirus issues, I had to have the participant download the software and attempt this himself. Luckily, before exporting, he had accidentally saved the face video of himself into an MKV format. However, this video has zero audio nor does it show the screen. I only attached it as proof that I conducted the interview, but don't have all the desired materials. However, I was watching his interaction via FaceTime and remember most of the user decisions and his explanations.**
 
 --- 
 
