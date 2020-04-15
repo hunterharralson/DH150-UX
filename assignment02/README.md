@@ -36,12 +36,12 @@ Lastly, the participant was asked to select five words that he felt were most cl
 <p>&nbsp;</p>
 
 ## Survey Link (usability test materials)
-[here](https://forms.gle/mQTCnjqMyysgyLeh8)
+[Click Here](https://forms.gle/mQTCnjqMyysgyLeh8)
 
 <p>&nbsp;</p>
 
 ## Pilot Test Video:
-[here](https://drive.google.com/file/d/1LeC3ka1fxsSPTg_XFFHxZoz-9c3dJZbs/view?usp=sharing)
+[Click Here](https://drive.google.com/file/d/1LeC3ka1fxsSPTg_XFFHxZoz-9c3dJZbs/view?usp=sharing)
 
 **Important note: In the process of exporting the pilot video from ActivePresenter into a .mp4 format, the participant's computer crashed. Since I could not conduct the interview in person due to Coronavirus issues, I had to have the participant download the software and attempt this himself. Luckily, before exporting, he had accidentally saved the face video of himself into an MKV format. However, this video has zero audio nor does it show the screen. I only attached it as proof that I conducted the interview, but don't have all the desired materials. However, I was watching his interaction via FaceTime and remember most of the user decisions and his explanations.**
 
