@@ -15,6 +15,7 @@ Hunter Harralson
 **What is a limitation that possibly would be improved with technology?**
 - One limitation that is overcome through the digital power of Letterboxd is the ability to reach a larger audience and meet new people online who you would not know you have similar interests with otherwise. This allows a user to explore insights and opinions that may have never reached them without digital technology
 
+<p>&nbsp;</p>
 
 ## Defining the Target Users
 **What are the characteristics of users?**
@@ -29,8 +30,12 @@ Hunter Harralson
 - *Goal*: Making their opinion heard or viewing opinions of others
 - Visit the mobile app or website, find a specific film, and see what people are saying about it. OR simply, going to the activity page to see interesting takes on films that one is not specifically looking for (more of a browsing experience).
 
+<p>&nbsp;</p>
+
 ## Research Methods
 - For this activity, I decided to pursue a contextual interview with a user of Letterboxd who also falls in the target user demographic. I feel that the best way of understanding the user is by simply asking them about their experience and viewing this experience live. 
+
+<p>&nbsp;</p>
 
 ## Research Materials 
 
@@ -39,6 +44,8 @@ Hunter Harralson
 ### Data
 - Please find my interview recording here
 - Please find the interview transcipt here
+
+<p>&nbsp;</p>
 
 ## Key Insights from the Interview
 - 1. 
