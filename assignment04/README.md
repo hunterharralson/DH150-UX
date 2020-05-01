@@ -12,7 +12,7 @@ Hunter Harralson
 **What are the traditional/current solutions to satisfy the needs?**
 - The traditional solution to the needs would be through face-to-face conversations with peers following the viewing of a film or perhaps through sending a text. People with larger audiences may take to twitter to express their feelings, but having a niche platform like Letterboxd creates a community of users who all come to the site/app for the same reason. 
 
-What is a limitation that possibly would be improved with technology?
+**What is a limitation that possibly would be improved with technology?**
 - One limitation that is overcome through the digital power of Letterboxd is the ability to reach a larger audience and meet new people online who you would not know you have similar interests with otherwise. This allows a user to explore insights and opinions that may have never reached them without digital technology
 
 
@@ -22,11 +22,11 @@ What is a limitation that possibly would be improved with technology?
 - *Preference*: Users want to be able to discuss and share films, and thus, need an online platform to do so.
 - *Expertise*: No level of expertise needed - anyone can watch a film and leave a thoughtful review
 
-*Where would the users do that activity?*
+**Where would the users do that activity?**
 - Users are likely to use Letterboxd while at home following or preceding the screening of a film, or perhaps on their way home from the movie theater, such as in a car or Uber ride. The activities can range from rating a film, leaving a review, liking a film, or simply seeing what a friend or famous reviewer thought about a film. However, I feel that if the activity feed is designed properly, the context of use could greatly expand to any setting. For example, if the activity feed was more broad and useable, a user could jump on the app and use it at any time similar to how one uses other social media. 
 
-*What would the users do to complete that activity? (e.g., goal, operation, method, action)*
-- Goal: Making their opinion heard or viewing opinions of others
+**What would the users do to complete that activity? (e.g., goal, operation, method, action)**
+- *Goal*: Making their opinion heard or viewing opinions of others
 - Visit the mobile app or website, find a specific film, and see what people are saying about it. OR simply, going to the activity page to see interesting takes on films that one is not specifically looking for (more of a browsing experience).
 
 ## Research Methods
