@@ -22,3 +22,9 @@ After years of experience with Letterboxd as well as user research in the prior 
 ## Persona Creation and Empathy Maps
 
 **Proto Persona 1: Paige**
+<img src="./Persona01.png">
+
+<p>&nbsp;</p>
+
+**Paige's Empathy Map**
+<img src="./EmpathyMap01.png">
