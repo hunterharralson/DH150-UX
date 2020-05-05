@@ -32,3 +32,34 @@ After years of experience with Letterboxd as well as user research in the prior 
 <p align="center">
   <img src="./EmpathyMap01.png">
 </p>
+
+<p>&nbsp;</p>
+
+### **Proto Persona 2: Scott**
+<p align="center">
+  <img src="./Persona02.png">
+</p>
+
+<p>&nbsp;</p>
+
+### **Scott's Empathy Map**
+<p align="center">
+  <img src="./EmpathyMap02.png">
+</p>
+
+<p>&nbsp;</p>
+
+### **Proto Persona 3: Sean**
+<p align="center">
+  <img src="./Persona03.png">
+</p>
+
+<p>&nbsp;</p>
+
+### **Sean's Empathy Map**
+<p align="center">
+  <img src="./EmpathyMap03.png">
+</p>
+
+
+
