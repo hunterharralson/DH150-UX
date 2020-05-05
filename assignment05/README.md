@@ -3,6 +3,7 @@
 *Created by Hunter Harralson*
 
 ---
+<p>&nbsp;</p>
 
 ## Digital Storytelling:
 The importance of UX storytelling lies in the ability of one to put themselves in the shoes of the user.
@@ -17,6 +18,7 @@ After years of experience with Letterboxd as well as user research in the prior 
 * **2. The Profile Page**
 * **3. Messaging** (this is not present, but I feel that its implementation would be useful)
 
+---
 <p>&nbsp;</p>
 
 ## Persona Creation and Empathy Maps
@@ -33,6 +35,7 @@ After years of experience with Letterboxd as well as user research in the prior 
   <img src="./EmpathyMap01.png">
 </p>
 
+---
 <p>&nbsp;</p>
 
 ### **Proto Persona 2: Scott**
@@ -47,6 +50,7 @@ After years of experience with Letterboxd as well as user research in the prior 
   <img src="./EmpathyMap02.png">
 </p>
 
+---
 <p>&nbsp;</p>
 
 ### **Proto Persona 3: Sean**
@@ -60,6 +64,11 @@ After years of experience with Letterboxd as well as user research in the prior 
 <p align="center">
   <img src="./EmpathyMap03.png">
 </p>
+
+---
+<p>&nbsp;</p>
+
+## User Scenarios
 
 
 
