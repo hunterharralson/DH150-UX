@@ -68,7 +68,45 @@ After years of experience with Letterboxd as well as user research in the prior 
 ---
 <p>&nbsp;</p>
 
-## User Scenarios
+## User Scenarios and Journey Maps
 
+### **1. Paige's Scenario:**
+* 
+* 
+
+<p>&nbsp;</p>
+
+### **Paige's Journey**
+<p align="center">
+  <img src="./JourneyMap01.png">
+</p>
+
+---
+<p>&nbsp;</p>
+
+### **2. Scott's Scenario:**
+* 
+* 
+
+<p>&nbsp;</p>
+
+### **Scott's Journey**
+<p align="center">
+  <img src="./JourneyMap02.png">
+</p>
+
+---
+<p>&nbsp;</p>
+
+### **3. Sean's Scenario:**
+* 
+* 
+
+<p>&nbsp;</p>
+
+### **Sean's Journey**
+<p align="center">
+  <img src="./JourneyMap03.png">
+</p>
 
 
