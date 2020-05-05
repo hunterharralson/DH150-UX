@@ -21,4 +21,4 @@ After years of experience with Letterboxd as well as user research in the prior 
 
 ## Persona Creation and Empathy Maps
 
-** Proto Persona 1: Paige **
+**Proto Persona 1: Paige**
