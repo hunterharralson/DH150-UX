@@ -15,8 +15,7 @@ By imagining a user's journey from start to finish, fluid features and pain poin
 ## Improving Letterboxd
 After years of experience with Letterboxd as well as user research in the prior assingments, I have identified three features of the film platform's website to improve upon.
 * **1. The Activity Feed**
-* **2. The Profile Page**
-* **3. Messaging** (this is not present, but I feel that its implementation would be useful)
+* **2. Messaging** (this is not present, but I feel that its implementation would be useful)
 
 ---
 <p>&nbsp;</p>
@@ -96,18 +95,4 @@ After years of experience with Letterboxd as well as user research in the prior 
 <p align="center">
   <img src="./JourneyMap02.png">
 </p>
-
----
-<p>&nbsp;</p>
-
-### **3. Sean's Scenario:**
-* 
-* 
-
-<p>&nbsp;</p>
-
-<p align="center">
-  <img src="./JourneyMap03.png">
-</p>
-
 
