@@ -86,8 +86,10 @@ After years of experience with Letterboxd as well as user research in the prior 
 <p>&nbsp;</p>
 
 ### **2. Scott's Scenario:**
-* 
-* 
+* Last week, Scott saw the film Uncut Gems and absolutely loved it. While most people raved about the performance of the lead actors, Scott was much more impressed by the extras and minor characters that appeared throughout the film. 
+* After school one afternoon, Scott went into his bedroom and opened up Letterboxd on his laptop browser to see what other people had to say about Uncut Gems. For him, he was doing research for the YouTube review of the film he was going to make later in the week. After searching Uncut Gems and clicking on it, Scott scrolls down to see reviews. Three reviews down, under ‘Reviews from Friends’, Scott sees a review from his online acquaintance Mike, which also specifically points out the minor actors’ performances. Scott loves Mikes’ take on the film, and would like to feature his review on his Youtube review, so Scott needs to get in contact with Mike to gain permission. Scott initially is going to Comment on Mikes’ review, but realizes that Mike will probably not see the comment within the other 30 comments on the review. So, Scott decides to click on Mikes’ profile to send him a personal message. Scott meticulously searches the whole page, but is struggling to find a personal message feature. 
+* Eventually, Scott finds the message feature, an envelope icon next to the ‘Following’ button on Mikes’ profile page. Scott clicks the Message Button, types out his request to Mike, and hits Send. Two days later, Scott receives a personal message back from Mike, granting him permission to use a quote from the review in Scott’s video. 
+
 
 <p>&nbsp;</p>
 
