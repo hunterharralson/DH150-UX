@@ -15,15 +15,15 @@ In bringing to life my low fidelity prototype, I created wireframes of the three
 # Wireflows
 In order to test the usability of the prototype, I asked my roommate to perform tasks using the simple wireframes. 
 * **Task 1**: Navigate to the activity page to share a review. Then view the review amongst your posts.
-<p align="center">
+
   <img src="./wireflow1.png">
-</p>
-**Feedback**: Following the task, I asked my tester what he found useful and what did not work as well. The important thing I took away was keeping the activity page simple and familiar to other social media platforms so that the user doesn't have to learn new skills to navigate the website. He also added that having a picture of the film being discussed may help the user visually parse through the activity page looking for films that may catch his or her eye. This I later added to the wireframe. 
+
+* **Feedback**: Following the task, I asked my tester what he found useful and what did not work as well. The important thing I took away was keeping the activity page simple and familiar to other social media platforms so that the user doesn't have to learn new skills to navigate the website. He also added that having a picture of the film being discussed may help the user visually parse through the activity page looking for films that may catch his or her eye. This I later added to the wireframe. 
 * **Task 2**: Search a film, find a review from your friend, and message that friend. 
 <p align="center">
   <img src="./wireflow2.png">
 </p>
-**Feedback**: Following the second task, I could see the gears turning a bit more in my tester's head. This was most apparant on the film's page, as finding the review is much harder with the large number of information on the page. 
+* **Feedback**: Following the second task, I could see the gears turning a bit more in my tester's head. This was most apparant on the film's page, as finding the review is much harder with the large number of information on the page. 
 
 # Summary
 Coming into this process, I was excited to actually start the design process of the ideas that had arisen from weeks of research. I think one thing that caught me by surprise was the amount of detail that actually occurs in working designs and how much we take them for granted. For example, I almost forgot to include a 'New Post' feature on the activity page, which is arguably the most important part. I also think that it is important to not get too absorbed in the minutiae of the design just yet, because those details will be handled as higher fidelity prototypes are developed. This showed me that the low fidelity protoype is very helpful in identifying the essential features that make the experience flow the correct way. The process has been eye-opening for me, as it has allowed me to both implement the features visually and also see how they behave.  
