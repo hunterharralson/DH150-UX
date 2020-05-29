@@ -37,3 +37,7 @@ For the cognitive walkthrough, I combined two of the tasks from the user scenari
 
 Find the link to my impression test and cognitive walkthrough <a href="https://docs.google.com/document/d/1S35tT5ZqR4UH7rlNTG6SOp_O1HYde7dLgaHGTGQCPSo/edit?usp=sharing" target="_blank"> here </a>
 
+### Accessibility Check
+For the accessibility check, I installed the suggested A11y Contrast Color Checker plugin for Figma to evaluate the contrast. Most of the components passed the evaluation, however, my initial choice to place white text over the green icons did not suffice. Therefore, I brightened up the green and changed the text to black. 
+
+<img src="./accessibility.png">
