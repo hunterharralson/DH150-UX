@@ -19,3 +19,13 @@ The graphic design of Letterboxd does not feel very flawed at all. The color sch
 For users to better navigate the now-clustered activity page, I implemented three different tabs for the activity page. In order to navigate these three tabs, I included a top tab menu that reflects the user’s system status by highlighting the current tab. I also included a large blue button for new posts or reviews. The reason I chose this color was for a couple of reasons. First, I did not want the button to be confused with the green ‘Log’ button in the menu. Next, I chose the color of blue directly from Letterboxd’s logo because I feel that it adds a bit more informality to the activity page, hopefully making it feel more fun. Another major decision came with the placement of the film cover connected to the post. Currently, on Letterboxd, the cover appears on the left side of the review next to the user’s profile picture, but I feel that it interferes with the ease of the user to navigate and read posts. I wanted to include the film covers, which I think are less distracting on the right side. 
 
 <img src="./posts.png">
+
+#### Simplified User Profile Page
+According to my usability test results, the user profile page was difficult to navigate and my interviewee noticed its overcrowdedness. Furthermore, to reflect the simplified activity page, I created the same top tab menu on the profile page for a user’s posts and reviews. Most importantly, in my opinion, is the inclusion of the message icon so that a user can send personal messages to other users from their profile. I chose to place this next to the following button because those are the two major actions one can do from the profile page.
+
+<img src="./profile.png">
+
+#### Messages
+The screen below is the messages page. On the screen, the user is in the process of messaging John Smith. For this page, the main thing I focused on was giving the user visibility of the system status. The current recipient’s name is green, and there is a ‘new message’ field in both the text bar and on the other user’s tab. Furthermore, after the message is sent, there is a ‘Message sent’ confirmation at the top of the screen as well as a checkmark below the previously sent message to confirm delivery.
+
+<img src="./messages.png">
