@@ -1,7 +1,7 @@
 # DH150 High-Fidelity Prototype - Letterboxd
 *Created by Hunter Harralson*
 
-## Description of Project
+### Description of Project
 My project is based on the website <a href="http://letterboxd.com" target="_blank"> Letterboxd </a>, which is a social platform for people who regularly watch and keep up with films. As my friends and myself often use the website, we have discussed the minute flaws that lead up to a lessened experience, so when the time came to choose a project, this seemed like the right choice.
 
 Through user research, I was able to identify a few features that could greatly improve the social experience of being a Letterboxd user. Primarily, the activity page stands out as overcrowded and difficult to navigate. For a platform aimed at being social, my interviewee from the usability testing phase noted that he often avoids the activity page because of its cluttered state. He mentioned that giving formal film reviews their own section separate from shorter posts about films would give him a greater sense of control over the content he sees. 
@@ -12,10 +12,10 @@ The high fidelity prototype stage was very exciting for me, as I was able to tra
 2. Create a post and view this post on the activity page.
 3. Navigate from the activity page to a user’s profile, and send the user a personal message.
 
-## Graphic Design
+### Graphic Design
 The graphic design of Letterboxd does not feel very flawed at all. The color scheme is fairly neutral with a lot of grays and some inclusion of the color green for actions. I decided to stick to this theme, as I feel it gives the website a relaxed but professional feel. 
 
-### Activity Page with Separation of Posts and Reviews
+#### Activity Page with Separation of Posts and Reviews
 For users to better navigate the now-clustered activity page, I implemented three different tabs for the activity page. In order to navigate these three tabs, I included a top tab menu that reflects the user’s system status by highlighting the current tab. I also included a large blue button for new posts or reviews. The reason I chose this color was for a couple of reasons. First, I did not want the button to be confused with the green ‘Log’ button in the menu. Next, I chose the color of blue directly from Letterboxd’s logo because I feel that it adds a bit more informality to the activity page, hopefully making it feel more fun. Another major decision came with the placement of the film cover connected to the post. Currently, on Letterboxd, the cover appears on the left side of the review next to the user’s profile picture, but I feel that it interferes with the ease of the user to navigate and read posts. I wanted to include the film covers, which I think are less distracting on the right side. 
 
 <img src="./Activity.png">
