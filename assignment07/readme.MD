@@ -29,3 +29,11 @@ According to my usability test results, the user profile page was difficult to n
 The screen below is the messages page. On the screen, the user is in the process of messaging John Smith. For this page, the main thing I focused on was giving the user visibility of the system status. The current recipient’s name is green, and there is a ‘new message’ field in both the text bar and on the other user’s tab. Furthermore, after the message is sent, there is a ‘Message sent’ confirmation at the top of the screen as well as a checkmark below the previously sent message to confirm delivery.
 
 <img src="./messages.png">
+
+### Impression Test and Cognitive Walkthrough
+For the impression test and cognitive walkthrough, I asked a friend who has never seen or used Letterboxd to give his opinion. He was able to quickly spot that the website was related to film reviews, and after asking the types of tasks he thinks one could accomplish, he listed many of the core features of the activity page that made it social in nature. However, he mentioned one feature I completely abandoned in my design: replying to posts via comments. A big eye-opener for me, this shows the strengths of prototyping and the iterative process, as I will now go back and incorporate comments in the design of the next iteration. I found it funny when I asked one word to describe the website, which he described as ‘neutral’, the same way I happened to describe the color scheme in the graphic design section. 
+
+For the cognitive walkthrough, I combined two of the tasks from the user scenarios so that I could assess more screens of the prototype. I described a user that finds a post, shares it, then decides to write a new post, and finally wants to see the posts listed together. I walked my interviewee through the chosen user scenario and asked his feedback along the way. This stage actually went very smoothly: he knew what to click in each situation and did not feel any confusion during the process. A suggestion that I will improve upon was the lack of more system feedback following the sharing of a post. The interviewee stated the change of color of the share icon was not enough. 
+
+Find the link to my impression test and cognitive walkthrough <a href="https://docs.google.com/document/d/1S35tT5ZqR4UH7rlNTG6SOp_O1HYde7dLgaHGTGQCPSo/edit?usp=sharing" target="_blank"> here </a>
+
