@@ -46,23 +46,23 @@ For the accessibility check, I installed the suggested A11y Contrast Color Check
 Find the link to my interactive prototype <a href="https://www.figma.com/proto/zEzM2ZRwq5pqiNeEJTn8V5/Letterboxd-Prototype?node-id=42%3A8&viewport=-3524%2C231%2C1.126181960105896&scaling=min-zoom" target="_blank"> here </a>
 
 The following are the three user scenario tasks:
-Task 1: Share a post
+**Task 1: Share a post**
 * Select “Posts” tab
 * Click the Share icon under John Smith’s post
 
-Task 2: Create a new post
+**Task 2: Create a new post**
 * From the “Posts” tab, select the New Post icon (blue button at top right)
 * Click the “Post” button on the new post overlay
 * Click the “You” tab to view the post
 
-Task 3: Send a message
+**Task 3: Send a message**
 * Select “Posts” tab
 * Click on John Smith’s name to navigate to his profile
 * Click the Message icon on his profile
 * Send the typed message by pressing the green arrow send button
 
 ### Diagram of Wireflow
-The first image represents the screen designs and the second displays the wireflows of the prototype. 
+The first image represents the screen designs, and the second image displays the wireflows of the prototype. 
 
 <img src="./screens.png">
 <img src="./wireflow.png">
