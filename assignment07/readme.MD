@@ -45,7 +45,8 @@ For the accessibility check, I installed the suggested A11y Contrast Color Check
 ### Interactive Prototype
 Find the link to my interactive prototype <a href="https://www.figma.com/proto/zEzM2ZRwq5pqiNeEJTn8V5/Letterboxd-Prototype?node-id=42%3A8&viewport=-3524%2C231%2C1.126181960105896&scaling=min-zoom" target="_blank"> here </a>
 
-The following are the three user scenario tasks:
+The following are the three user scenario tasks
+
 **Task 1: Share a post**
 * Select “Posts” tab
 * Click the Share icon under John Smith’s post
@@ -66,3 +67,8 @@ The first image represents the screen designs, and the second image displays the
 
 <img src="./screens.png">
 <img src="./wireflow.png">
+
+### Reflection
+For me, this was by far the most intensive process because I kept finding new features to improve upon and never really stopped to test the product. This process helped me realize that I really enjoy the actual design process, as I noticed three hours pass by very quickly multiple times. I did not expect the impression test and the cognitive walkthrough to go as smoothly as they went, but I feel that they were still very informative, and in the matter of ten minutes I found some obvious improvements. Also, the accessibility check was very easy thanks to the plugin. I honestly expected to encounter many more errors in accessibility than the one. I would say the most difficult part of this process was keeping up with the prototype settings on Figma and making sure the interactions were the same across the same screens.
+
+Based on the feedback from my cognitive walkthrough and impression test, I would design the share post feature to include more user feedback confirming the process is complete. There was a couple of very minor occurrences where my interviewee was confused about the ‘You’ tab of the activity page. For that reason, I would consider changing the tab from ‘You’ to something clearer such as ‘Your Activity’. 
