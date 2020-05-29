@@ -7,6 +7,6 @@ Through user research, I was able to identify a few features that could greatly 
 
 The high fidelity prototype stage was very exciting for me, as I was able to transfer my low fidelity wireframes into something functional. Initially, the process was very useful for me as the designer to see features I may have overlooked in my wireframe creation. More importantly, the end prototype’s functionality allows one to perform user testing on the product to further improve it. With more feedback comes more iteration, thus leading to a more effective product. For the high fidelity prototype, I took my wireframes into Figma to demonstrate three major user scenarios: 
 
-*1. Browse shorter posts from the activity page and share one of these posts.
-*2. Create a post and view this post on the activity page.
-*3. Navigate from the activity page to a user’s profile, and send the user a personal message.
+* Browse shorter posts from the activity page and share one of these posts.
+* Create a post and view this post on the activity page.
+* Navigate from the activity page to a user’s profile, and send the user a personal message.
