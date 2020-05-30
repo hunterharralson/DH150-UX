@@ -8,7 +8,7 @@
 ## Digital Storytelling:
 The importance of UX storytelling lies in the ability of one to put themselves in the shoes of the user.
 The first step is creating different prototypes of users based on user research. In creating differing perspectives, more pain points can be discovered and improved upon.
-By imagining a user's journey from start to finish, fluid features and pain points become apparent, allowing a desinger to greatly improve the product.
+By imagining a user's journey from start to finish, fluid features and pain points become apparent, allowing a designer to greatly improve the product.
 
 <p>&nbsp;</p>
 
