@@ -1,18 +1,25 @@
 # Enhancing the social film experience
-By Hunter Harralson
+## By Hunter Harralson
 
-## Introduction
+### Introduction
 
-## Design Statement
+### Design Statement
 
-## Competitor Analysis
+### Competitor Analysis
 
-## User Research
+### User Research
 
-## User Storytelling
+### User Storytelling
 
-## Wireframe and graphic design element variation
+### Wireframe and graphic design element variation
 
-## Low-fidelity prototype
+### Low-fidelity prototype
 
-## High-fidelity prototype
+### High-fidelity prototype
+
+### Optional Evaluation and revision history
+
+### Pitch Video 
+
+### Conclusion
+
