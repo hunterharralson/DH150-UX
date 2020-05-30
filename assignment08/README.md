@@ -1,6 +1,8 @@
 # Enhancing the social film experience
 ## By Hunter Harralson
 
+[... read more >>>](url)
+
 ### Introduction
 
 ### Design Statement
