@@ -13,7 +13,7 @@ By imagining a user's journey from start to finish, fluid features and pain poin
 <p>&nbsp;</p>
 
 ## Improving Letterboxd
-After years of experience with Letterboxd as well as user research in the prior assingments, I have identified three features of the film platform's website to improve upon.
+After experience with Letterboxd as well as user research in the prior assingments, I have identified three features of the film platform's website to improve upon.
 * **1. The Activity Feed**
 * **2. Messaging** (this is not present, but I feel that its implementation would be useful)
 * **3. The Profile Page**
