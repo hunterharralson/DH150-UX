@@ -29,8 +29,7 @@ The purpose of the low fidelity prototype is for me to simply visualize ideas an
 The features represented in this prototype are features that, through research and usability testing, were deemed useful additions in improving the social aspect of Letterboxd. The first feature is the inclusion of an activity page that is separated based on reviews and posts, thus allowing more informal posts about films. Then there is the personal messaging option between users, something that would increase the sharing of information. And finally, there is an improved user profile page that includes a button to message and the display of posts and reviews in a timeline fashion.
 [... Read More >>>](https://github.com/hunterharralson/DH150-UX/tree/master/assignment06)
 <img src="./wireframe.png">
-<img src="./wireflow1.png">
-<img src="./wireflow2.png">
+
 
 ### High-fidelity prototype
 My high-fidelity prototype was created through Figma and was a way to turn my wireflows into an interactive and testable prototype. Initially, the process was very useful for me as the designer to see features I may have overlooked in my wireframe creation. More importantly, the end prototype’s functionality allows one to perform user testing on the product to further improve it. With more feedback comes more iteration, thus leading to a more effective product. For the high fidelity prototype, I took my wireframes into Figma to demonstrate three major user scenarios:
@@ -41,9 +40,6 @@ My high-fidelity prototype was created through Figma and was a way to turn my wi
 Find the link to my interactive prototype <a href="https://www.figma.com/proto/zEzM2ZRwq5pqiNeEJTn8V5/Letterboxd-Prototype?node-id=42%3A8&viewport=-3524%2C231%2C1.126181960105896&scaling=min-zoom" target="_blank"> here </a>
 
 <div class="row">
-  <div class="column">
-    <img src="./profile.png" alt="Profile" style="width:50%">
-  </div>
   <div class="column">
     <img src="./posts.png" alt="Forest" style="width:50%">
   </div>
