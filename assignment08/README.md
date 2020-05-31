@@ -37,7 +37,7 @@ My high-fidelity prototype was created through Figma and was a way to turn my wi
 [... Read More >>>](https://github.com/hunterharralson/DH150-UX/tree/master/assignment07)
 
 ### Evaluation of prototype
-Furthermore, I have conducted an impression test, cognitive walkthrough, and accessibilty testing of my high fidelity prototype. I asked a friend who has never seen or used Letterboxd to give his opinion. He was able to quickly spot that the website was related to film reviews, and after asking the types of tasks he thinks one could accomplish, he listed many of the core features of the activity page that made it social in nature.
+Furthermore, I have conducted an impression test, cognitive walkthrough, and accessibilty test of my high fidelity prototype. I asked a friend who has never seen or used Letterboxd to give his opinion. He was able to quickly spot that the website was related to film reviews, and after asking the types of tasks he thinks one could accomplish, he listed many of the core features of the activity page that made it social in nature.
 [... Read More >>>](https://github.com/hunterharralson/DH150-UX/tree/master/assignment07)
 
 ### Pitch Video 
