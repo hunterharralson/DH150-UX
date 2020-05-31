@@ -28,7 +28,9 @@ The importance of UX storytelling lies in the ability of one to put themselves i
 The purpose of the low fidelity prototype is for me to simply visualize ideas and be able to test the usability of these implementations in a low-cost setting where I can easily apply fixes later. Ideally, by the end of this stage of development, there will be a base structure that can be turned into a high-fidelity prototype. In creating and testing these prototypes, it is determined whether or not a product is usable. 
 The features represented in this prototype are features that, through research and usability testing, were deemed useful additions in improving the social aspect of Letterboxd. The first feature is the inclusion of an activity page that is separated based on reviews and posts, thus allowing more informal posts about films. Then there is the personal messaging option between users, something that would increase the sharing of information. And finally, there is an improved user profile page that includes a button to message and the display of posts and reviews in a timeline fashion.
 [... Read More >>>](https://github.com/hunterharralson/DH150-UX/tree/master/assignment06)
-<img src="./wireframe.png" style="width:50%">
+<p align="center">
+  <img src="./wireframe.png" width="30%" height="30%">
+</p>
 
 
 ### High-fidelity prototype
