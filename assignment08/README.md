@@ -1,4 +1,4 @@
-# Enhancing the social film experience :movie_camera:
+# Enhancing the social film experience 
 ## By Hunter Harralson
 
 ### Introduction
