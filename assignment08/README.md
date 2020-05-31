@@ -1,8 +1,6 @@
 # Enhancing the social film experience
 ## By Hunter Harralson
 
-[... read more >>>](url)
-
 ### Introduction
 In this project, I will present a novel UX design to enhance the social experience of being a user of the film website Letterboxd. A website that serves as a social platform for cinephiles, Letterboxd allows a user to log viewed films, leave lengthy film reviews, rate movies, and discuss movies with friends and strangers. It serves as a medium for people to interact about the movies they love, hate, or simply want to share with their following. Users are driven to the website for the purpose of socializing about the specific topic of cinema; however, following analysis and user research, the social experience of Letterboxd does not seem to fulfill its potential.  
 
@@ -31,12 +29,18 @@ The purpose of the low fidelity prototype is for me to simply visualize ideas an
 The features represented in this prototype are features that, through research and usability testing, were deemed useful additions in improving the social aspect of Letterboxd. The first feature is the inclusion of an activity page that is separated based on reviews and posts, thus allowing more informal posts about films. Then there is the personal messaging option between users, something that would increase the sharing of information. And finally, there is an improved user profile page that includes a button to message and the display of posts and reviews in a timeline fashion.
 [... Read More >>>](https://github.com/hunterharralson/DH150-UX/tree/master/assignment06)
 
-
 ### High-fidelity prototype
+My high-fidelity prototype was created through Figma and was a way to turn my wireflows into an interactive and testable prototype. Initially, the process was very useful for me as the designer to see features I may have overlooked in my wireframe creation. More importantly, the end prototype’s functionality allows one to perform user testing on the product to further improve it. With more feedback comes more iteration, thus leading to a more effective product. For the high fidelity prototype, I took my wireframes into Figma to demonstrate three major user scenarios:
+1. Browse shorter posts from the activity page and share one of these posts.
+2. Create a post and view this post on the activity page.
+3. Navigate from the activity page to a user’s profile, and send the user a personal message.
+[... Read More >>>](https://github.com/hunterharralson/DH150-UX/tree/master/assignment07)
 
-### Optional Evaluation and revision history
+### Evaluation of prototype
+Furthermore, I have conducted an impression test, cognitive walkthrough, and accessibilty testing of my high fidelity prototype. I asked a friend who has never seen or used Letterboxd to give his opinion. He was able to quickly spot that the website was related to film reviews, and after asking the types of tasks he thinks one could accomplish, he listed many of the core features of the activity page that made it social in nature.
+[... Read More >>>](https://github.com/hunterharralson/DH150-UX/tree/master/assignment07)
 
 ### Pitch Video 
 
-### Conclusion
+### What I have gained from this experience
 
